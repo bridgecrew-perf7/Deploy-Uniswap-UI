@@ -1,4 +1,4 @@
-# Uncensored-Uniswap-Interface
+# Deploy Uniswap UI
 
 Deploy your own instance of the uniswap interface - [mirror 1](https://uncensored-uniswap.netlify.app/), [mirror 2](https://uncensored-uniswap.vercel.app/)
 
